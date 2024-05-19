@@ -66,7 +66,9 @@ namespace Fiorello.Areas.Admin.Controllers
             if (slider == null) return NotFound();
             SliderDetailVM model = new()
             {
+                Id = slider.Id,
                 Name = slider.Name
+
             };
             return View(model);
         }
