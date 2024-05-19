@@ -1,7 +1,10 @@
-﻿namespace Fiorello.ViewModels.Sliders
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Fiorello.ViewModels.Sliders
 {
     public class SliderCreateVM
     {
-        public IFormFile Image { get; set; }
+        [Required]
+        public List<IFormFile> Images { get; set; }
     }
 }

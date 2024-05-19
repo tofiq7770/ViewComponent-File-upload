@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hKwooVqo/g/mCTf56kOaT9W3NzAwtR7QTEdpUozop8k=",
+  "Hash": "OnklUu8bXodsC+b1oxEQLskpYlq5Q2jYO1a/xK9Lh08=",
   "Source": "Fiorello",
   "BasePath": "_content/Fiorello",
   "Mode": "Default",
@@ -2261,6 +2261,23 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\2463ffce-70ad-46b7-8dd6-a85b8578373d-comments-6.jpg",
+      "SourceId": "Fiorello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
+      "BasePath": "_content/Fiorello",
+      "RelativePath": "img/2463ffce-70ad-46b7-8dd6-a85b8578373d-comments-6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2463ffce-70ad-46b7-8dd6-a85b8578373d-comments-6.jpg"
+    },
+    {
       "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\blog-feature-img-1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
@@ -2310,6 +2327,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\d6ac3ea8-afc8-4141-aab1-f062b92efa75-blog-recent-1.jpg",
+      "SourceId": "Fiorello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
+      "BasePath": "_content/Fiorello",
+      "RelativePath": "img/d6ac3ea8-afc8-4141-aab1-f062b92efa75-blog-recent-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d6ac3ea8-afc8-4141-aab1-f062b92efa75-blog-recent-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\f4255928-c295-4eda-bd46-9d633a6e566b-blog-recent-2.jpg",
+      "SourceId": "Fiorello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
+      "BasePath": "_content/Fiorello",
+      "RelativePath": "img/f4255928-c295-4eda-bd46-9d633a6e566b-blog-recent-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f4255928-c295-4eda-bd46-9d633a6e566b-blog-recent-2.jpg"
     },
     {
       "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\favicon.png",
