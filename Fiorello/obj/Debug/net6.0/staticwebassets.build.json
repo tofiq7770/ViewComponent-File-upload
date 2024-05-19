@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JHD/PJpQ8J4Afj9g6UeTDYjQ12yj+cayfowdK2hyzm0=",
+  "Hash": "hKwooVqo/g/mCTf56kOaT9W3NzAwtR7QTEdpUozop8k=",
   "Source": "Fiorello",
   "BasePath": "_content/Fiorello",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Fiorello\\wwwroot",
       "Source": "Fiorello",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fiorello.styles.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fiorello.styles.css",
       "SourceId": "Fiorello",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "Fiorello.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fiorello.styles.css"
+      "OriginalItemSpec": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fiorello.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello.bundle.scp.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello.bundle.scp.css",
       "SourceId": "Fiorello",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "Fiorello.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fiorello.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\css\\style.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/css/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\css\\style.css.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\css\\style.css.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/css/style.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Bold.eot",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Bold.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Bold.woff",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Bold.woff2",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Light.eot",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Light.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Light.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Light.woff2",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Medium.eot",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Medium.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Medium.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Medium.woff2",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Regular.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Regular.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Regular.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/fonts/Ubuntu/Ubuntu-Regular.woff2",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\circle.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\circle.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/circle.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\circle.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\circle.svg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\circle.svg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/circle.svg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\circle.svg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/img_1.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\img_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/img_2.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\img_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/img_3.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\img_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\dashboard\\img_4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/dashboard/img_4.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\dashboard\\img_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\1610705538274.webp",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\1610705538274.webp",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/1610705538274.webp",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\1610705538274.webp"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces-clipart/pic-1.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces-clipart\\pic-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-2.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces-clipart/pic-2.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces-clipart\\pic-2.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-3.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces-clipart/pic-3.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces-clipart\\pic-3.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\faces-clipart\\pic-4.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/faces-clipart/pic-4.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces-clipart\\pic-4.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\favicon.ico",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/favicon.ico",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\favicon.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/favicon.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\logo.svg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/logo.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\blue.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\blue.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/blue.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\blue.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\dark.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\dark.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/dark.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\flag.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\flag.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/flag.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\flag.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\green.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\green.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/green.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\green.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\jsgrid-icons.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/jsgrid-icons.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\jsgrid-icons.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\red.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\red.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/red.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\red.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\yellow.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\images\\sprites\\yellow.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/images/sprites/yellow.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\sprites\\yellow.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\chart.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\chart.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/chart.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\dashboard.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/dashboard.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\file-upload.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/file-upload.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\misc.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\misc.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/misc.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\misc.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\off-canvas.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/off-canvas.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\todo.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\todo.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/todo.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\todo.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\js\\todolist.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\js\\todolist.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/js/todolist.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\todolist.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_dashboard.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_dashboard.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_dashboard.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_dashboard.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_demo.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_demo.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_footer.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_functions.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_functions.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_misc.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_misc.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_reset.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_reset.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_typography.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_typography.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_variables.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\_widget-grid.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\_widget-grid.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/_widget-grid.scss",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_widget-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_breadcrumbs.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_breadcrumbs.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_preview.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_preview.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_preview.scss",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_preview.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_todo-list.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\components\\_todo-list.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/components/_todo-list.scss",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_todo-list.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_background.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_background.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_background.scss",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_pagination.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_popovers.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_popovers.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_popovers.scss",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_popovers.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_text.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_text.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_text.scss",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_text.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\mixins\\_tooltips.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/mixins/_tooltips.scss",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_tooltips.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\scss\\style.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\scss\\style.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/scss/style.scss",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\css\\vendor.bundle.base.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/css/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\css\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\js\\bootstrap.min.js.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\js\\vendor.bundle.base.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/js/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\js\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\css\\style.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\css\\style.css.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\blog-feature-img-1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\blog-feature-img-1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/blog-feature-img-1.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\blog-feature-img-3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\blog-feature-img-3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/blog-feature-img-3.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\blog-feature-img-4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\blog-feature-img-4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/blog-feature-img-4.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\favicon.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\footer-bottom-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\footer-bottom-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/footer-bottom-1.png",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer-bottom-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h1-custom-icon.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h1-custom-icon.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h1-custom-icon.png",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h1-custom-icon.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h2-sign-img.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h2-sign-img.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h2-sign-img.png",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h2-sign-img.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-background-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-background-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-background-img.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-slider-background.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-slider-background.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-slider-background.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-slider-background.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-slider-background-2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-slider-background-2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-slider-background-2.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-slider-background-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-slider-background-3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-slider-background-3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-slider-background-3.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-slider-background-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-team-img-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-team-img-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-team-img-1.png",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-team-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-team-img-2.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-team-img-2.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-team-img-2.png",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-team-img-3.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-team-img-3.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-team-img-3.png",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-team-img-4.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-team-img-4.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-team-img-4.png",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\h3-video-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\h3-video-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/h3-video-img.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\img\\h3-video-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram1.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram2.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram3.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram4.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram5.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram5.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram5.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram5.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram6.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram6.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram6.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram6.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram7.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram7.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram7.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram7.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\instagram8.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\instagram8.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/instagram8.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\img\\instagram8.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\logo.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-10-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-10-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-10-img.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-10-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-11-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-11-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-11-img.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-11-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-12-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-12-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-12-img.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-12-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-13-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-13-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-13-img.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-13-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-14-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-14-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-14-img.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-14-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-7-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-7-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-7-img.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-7-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-8-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-8-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-8-img.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-8-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-9-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-9-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-9-img.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-9-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-1.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-2.jpg",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-3.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-4.jpg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-5.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-5.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-5.jpg",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\shop-category-img-6.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\shop-category-img-6.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/shop-category-img-6.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop-category-img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\testimonial-img-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\testimonial-img-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/testimonial-img-1.png",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\img\\testimonial-img-2.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\img\\testimonial-img-2.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "img/testimonial-img-2.png",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\js\\blog.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\js\\blog.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "js/blog.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\js\\blog.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\js\\script.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\owlcarousel\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\owlcarousel\\owl.carousel.min.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "owlcarousel/owl.carousel.min.css",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "owlcarousel/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\css\\contact-us.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\css\\contact-us.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/css/contact-us.css",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\product\\css\\contact-us.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\css\\contact-us.css.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\css\\contact-us.css.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/css/contact-us.css.map",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\product\\css\\contact-us.css.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\css\\style.css",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\css\\style.css",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/css/style.css",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\product\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\css\\style.css.map",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\css\\style.css.map",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/css/style.css.map",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\product\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-1.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-1.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/blog-feature-img-1.jpg",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\blog-feature-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/blog-feature-img-3.jpg",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\blog-feature-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-4.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\blog-feature-img-4.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/blog-feature-img-4.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\blog-feature-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\footer-bottom-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\footer-bottom-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/footer-bottom-1.png",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\footer-bottom-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h1-custom-icon.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h1-custom-icon.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h1-custom-icon.png",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h1-custom-icon.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h2-logo-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h2-logo-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h2-logo-1.png",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h2-logo-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h2-sign-img.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h2-sign-img.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h2-sign-img.png",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h2-sign-img.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-slider-background.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-slider-background.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-slider-background.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-slider-background.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-slider-background-2.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-slider-background-2.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-slider-background-2.jpg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-slider-background-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-slider-background-3.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-slider-background-3.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-slider-background-3.jpg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-slider-background-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-team-img-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-team-img-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-team-img-1.png",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-team-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-team-img-2.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-team-img-2.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-team-img-2.png",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-team-img-3.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-team-img-3.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-team-img-3.png",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-team-img-4.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-team-img-4.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-team-img-4.png",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\h3-video-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\h3-video-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/h3-video-img.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\h3-video-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-10-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-10-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-10-img.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-10-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-11-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-11-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-11-img.jpg",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-11-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-12-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-12-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-12-img.jpg",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-12-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-13-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-13-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-13-img.jpg",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-13-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-14-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-14-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-14-img.jpg",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-14-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-1-300x400.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-1-300x400.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-2-gallery-1-300x400.jpg",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-2-gallery-1-300x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-2-300x400.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-2-300x400.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-2-gallery-2-300x400.jpg",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-2-gallery-2-300x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-3-300x400 (1).jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-3-300x400 (1).jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-2-gallery-3-300x400 (1).jpg",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-2-gallery-3-300x400 (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-3-300x400.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-2-gallery-3-300x400.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-2-gallery-3-300x400.jpg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-2-gallery-3-300x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-2-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-2-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-2-img.jpg",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-2-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-3-img-300x400.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-3-img-300x400.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-3-img-300x400.jpg",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-3-img-300x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-7-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-7-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-7-img.jpg",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-7-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-8-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-8-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-8-img.jpg",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-8-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\shop-9-img.jpg",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\shop-9-img.jpg",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/shop-9-img.jpg",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\shop-9-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\testimonial-img-1.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\testimonial-img-1.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/testimonial-img-1.png",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\testimonial-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\images\\testimonial-img-2.png",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\images\\testimonial-img-2.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/images/testimonial-img-2.png",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\product\\images\\testimonial-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\js\\script.js",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\js\\script.js",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/js/script.js",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\product\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_about.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_about.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_about.scss",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_blog.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_blog.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_blog.scss",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_colorful-bunch.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_colorful-bunch.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_colorful-bunch.scss",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_colorful-bunch.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_contact-us.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_contact-us.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_contact-us.scss",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_contact-us.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_florist.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_florist.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_florist.scss",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_florist.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_flower-expert.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_flower-expert.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_flower-expert.scss",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_flower-expert.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_footer.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_footer.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_footer.scss",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_image-filter.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_image-filter.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_image-filter.scss",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_image-filter.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_navbar.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_navbar.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_navbar.scss",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_product-list.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_product-list.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_product-list.scss",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_product-list.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_slider.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_slider.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_slider.scss",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_slider.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_standart-product.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_standart-product.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_standart-product.scss",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_standart-product.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_valentine.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_valentine.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_valentine.scss",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_valentine.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\_variables.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\_variables.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/_variables.scss",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\product\\sass\\style.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\product\\sass\\style.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "product/sass/style.scss",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\product\\sass\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\lib\\_common.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\lib\\_common.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/lib/_common.scss",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\lib\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\lib\\_mixins.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\lib\\_mixins.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/lib/_mixins.scss",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\lib\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\lib\\_varibales.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\lib\\_varibales.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/lib/_varibales.scss",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\lib\\_varibales.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_about.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_about.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_about.scss",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_accordion.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_accordion.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_accordion.scss",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_blog.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_blog.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_blog.scss",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_experts.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_experts.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_experts.scss",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_experts.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_footer.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_footer.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_footer.scss",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_header.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_header.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_header.scss",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_instagram.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_instagram.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_instagram.scss",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_instagram.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_product.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_product.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_product.scss",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_product.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_product-list.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_product-list.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_product-list.scss",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_product-list.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_progress.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_progress.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_progress.scss",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_say.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_say.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_say.scss",
       "AssetKind": "All",
@@ -4148,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_say.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_shop-list.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_shop-list.scss",
       "AssetKind": "All",
@@ -4165,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_shop-list.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_slider.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_slider.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_slider.scss",
       "AssetKind": "All",
@@ -4182,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_slider.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_subscribe.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_subscribe.scss",
       "AssetKind": "All",
@@ -4199,10 +4199,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_subscribe.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\sections\\_tab.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\sections\\_tab.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/sections/_tab.scss",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\sass\\sections\\_tab.scss"
     },
     {
-      "Identity": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\sass\\style.scss",
+      "Identity": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\sass\\style.scss",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tofiq\\Desktop\\ViewComponent, File upload\\Fiorello\\wwwroot\\",
       "BasePath": "_content/Fiorello",
       "RelativePath": "sass/style.scss",
       "AssetKind": "All",

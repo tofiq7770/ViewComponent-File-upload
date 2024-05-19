@@ -214,13 +214,19 @@
             <li class="nav-item">
               <a class="nav-link" asp-area="Admin" asp-controller="Category" asp-action="Index" >
                 <span class="menu-title">Category</span>
-                <i class="mdi mdi-home menu-icon"></i>
+                <i class="mdi mdi-view-grid menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" asp-area="Admin" asp-controller="Blog" asp-action="Index" >
                 <span class="menu-title">Blog</span>
-                <i class="mdi mdi-home menu-icon"></i>
+                <i class="mdi mdi-blogger menu-icon"></i>
+              </a>
+            </li>
+              <li class="nav-item">
+              <a class="nav-link" asp-area="Admin" asp-controller="Slider" asp-action="Index" >
+                <span class="menu-title">Slider</span>
+                <i class="mdi mdi-animation menu-icon"></i>
               </a>
             </li>
            @* <li class="nav-item">
@@ -238,6 +244,7 @@
             </li>*@
           </ul>
         </nav>
+
         @RenderBody()
     </div>
       <!-- page-body-wrapper ends -->
